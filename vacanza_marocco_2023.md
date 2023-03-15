@@ -2,7 +2,7 @@
 ![](https://www.siviaggia.it/wp-content/uploads/sites/2/2017/10/marocco-mare-costa-nord-melilla.jpg)
 
 ## date
-**partenza:** 20/07/2023
+**partenza:** 20/07/2023<br>
 **ritorno:**  27/07/2023
 
 ## volo
@@ -20,8 +20,8 @@ oltre a visitare la città si possono fare alcune attvità interessanti:
   - [gita guidata di un giorno alle cascate di ouzoud con giro in barca (17€)](https://www.getyourguide.it/marrakech-l208/tour-di-1-giorno-alle-cascate-di-ouzoud-da-marrakech-t74708/)
 
 ## stima del costo
-volo: ~200€<br>
-pernottamento: tra 20€ e 70€<br>
-attività: ~100€ (considerando anche robe a pagamento in città)<br>
-altro: ~100/150€ (cibo, souvenirs, boh altro)<br>
-**totale:** 520€ al massimo
+- volo: ~200€<br>
+- pernottamento: tra 20€ e 70€<br>
+- attività: ~100€ (considerando anche robe a pagamento in città)<br>
+- altro: ~100/150€ (cibo, souvenirs, boh altro)<br>
+- **totale:** 520€ al massimo
